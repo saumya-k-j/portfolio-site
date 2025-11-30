@@ -114,7 +114,7 @@ const Resume = () => {
             <Button 
               variant="default" 
               className="gap-2"
-              onClick={() => window.open('/SsaumyaJaiswal_resume.pdf', '_blank')}
+              onClick={() => window.open('/Ssaumya_resume .pdf', '_blank')}
             >
               <FileDown className="h-5 w-5" />
               Download Full Resume

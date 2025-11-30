@@ -37,7 +37,7 @@ const Hero = () => {
                   variant="default" 
                   size="lg" 
                   className="gap-2 shadow-lg hover:shadow-xl transition-shadow"
-                  onClick={() => window.open('/SsaumyaJaiswal_resume.pdf', '_blank')}
+                  onClick={() => window.open('/Ssaumya_resume .pdf', '_blank')}
                 >
                   <FileDown className="h-4 w-4" />
                   Resume
